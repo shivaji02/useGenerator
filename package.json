@@ -1,6 +1,6 @@
 {
-  "name": "usegenerator",
-  "version": "1.0.0",
+  "name": "@shivajimandapati/usegenerator",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
